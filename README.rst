@@ -1,15 +1,15 @@
 Provinha de Progamação do Google Developer Dat 2011
 ===================================================
 
-gdd1:
------
+gdd1.py
+-------
 
 Esses pergaminhos estão no antigo e misterioso idioma Googlon. Após muitos anos de estudo, os linguistas já conhecem algumas características desse idioma.
 Primeiramente, as letras Googlon são classificadas em dois grupos: as letras r, x, w, j e m são chamadas "letras tipo foo", enquanto que as demais são conhecidas como "letras tipo bar".
 Os linguistas descobriram que as preposições em Googlon são as palavras de 3 letras que não terminam numa letra tipo foo, mas onde não ocorre a letra l. Portanto, é fácil ver que existem 61 preposições no Texto A. E no Texto B, quantas preposições existem?
 
-gdd2:
------
+gdd2.py
+-------
 
 Um outro fato interessante descoberto pelos linguistas é que, no Googlon, os verbos sempre são palavras de 8 ou mais letras que não terminam numa letra tipo foo. Além disso, se um verbo começa com uma letra tipo foo, o verbo está em primeira pessoa.
 Assim, lendo o Texto A, é possível identificar 75 verbos no texto, dos quais 12 estão em primeira
