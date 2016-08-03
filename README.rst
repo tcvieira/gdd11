@@ -1,4 +1,4 @@
-Provinha de Progamação do Google Developer Dat 2011
+Provinha de Programação do Google Developer Day 2011
 ===================================================
 
 gdd1.py
